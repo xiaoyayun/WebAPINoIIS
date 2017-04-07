@@ -16,5 +16,11 @@ namespace WebAPi.Controller
             MessageBox.Show(id.ToString());
             return id;
         }
+
+        [HttpPost]
+        public int Post(int id)
+        {
+            return id;
+        }
     }
 }
