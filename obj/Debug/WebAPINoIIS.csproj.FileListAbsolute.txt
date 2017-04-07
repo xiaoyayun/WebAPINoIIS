@@ -1,0 +1,15 @@
+G:\Code\GitHub\WebAPINoIIS\bin\Debug\WebAPi.exe.config
+G:\Code\GitHub\WebAPINoIIS\obj\Debug\WebAPi.exe
+G:\Code\GitHub\WebAPINoIIS\obj\Debug\WebAPi.pdb
+G:\Code\GitHub\WebAPINoIIS\bin\Debug\WebAPi.exe
+G:\Code\GitHub\WebAPINoIIS\bin\Debug\WebAPi.pdb
+G:\Code\GitHub\WebAPINoIIS\bin\Debug\Newtonsoft.Json.dll
+G:\Code\GitHub\WebAPINoIIS\bin\Debug\Microsoft.Owin.xml
+G:\Code\GitHub\WebAPINoIIS\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+G:\Code\GitHub\WebAPINoIIS\bin\Debug\Microsoft.Owin.Hosting.xml
+G:\Code\GitHub\WebAPINoIIS\bin\Debug\System.Net.Http.Formatting.xml
+G:\Code\GitHub\WebAPINoIIS\bin\Debug\System.Web.Http.xml
+G:\Code\GitHub\WebAPINoIIS\bin\Debug\System.Web.Http.Owin.xml
+G:\Code\GitHub\WebAPINoIIS\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+G:\Code\GitHub\WebAPINoIIS\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+G:\Code\GitHub\WebAPINoIIS\obj\Debug\WebAPINoIIS.csprojResolveAssemblyReference.cache
